@@ -6,7 +6,7 @@
 
 * [Budapest Julia User Group on meetup.com](https://www.meetup.com/meetup-group-qHEnKmfw/)
 
-### 2018-11-22: Introduction to Julia
+### 2018-11-21: Introduction to Julia
 
 #### 1. Introduction to Julia (by Csaba Hoch)
 
