@@ -17,6 +17,7 @@
    > In this presentation Csaba will show the basics of the Julia language, its most important principles, capabilities, and the ecosystem around the language. Csaba will also give an overview about how they use Julia in a production environment.
 
 *   [Slides.](documents/20181121-julia-intro-by-csaba-hoch.pdf)
+*   [Video.](https://www.youtube.com/watch?v=sNhmHSiuIbc)
 
 #### 2. Julia is fast - What, Why, How (by Avik Sengupta)
 
@@ -25,3 +26,4 @@
     > In this talk, Avik will dive deep into Julia's performance claims, showing how it compares to other languages, and explaining the language features that make it so.
 
 *   [Avik's Jupyter notebook.](https://nbviewer.jupyter.org/github/JuliaComputing/JuliaBoxTutorials/blob/master/introductory-tutorials/intro-to-julia/09.%20Julia%20is%20fast.ipynb)
+*   [Video.](https://www.youtube.com/watch?v=wMhyiP6vaAU)
